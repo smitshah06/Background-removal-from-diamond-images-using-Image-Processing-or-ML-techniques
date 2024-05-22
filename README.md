@@ -1,4 +1,4 @@
-## MINeDHackathon
+
 # Background removal from diamond images using Image Processing or ML techniques
 
 # Dataset:
